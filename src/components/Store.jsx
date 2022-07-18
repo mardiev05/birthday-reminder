@@ -26,7 +26,7 @@ export default function StoreProvider({ children }) {
         {
             id: 4,
             name: "Sophia",
-            age: 1,
+            age: "1 Year",
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpAXCvuojRkQohhEovih64WMCU1sAXh2WuDyVQtpQR_i09q6sa6IHCLaTZ4UJzTbXr7HQ&usqp=CAU"
         },
         {
